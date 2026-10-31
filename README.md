@@ -8,7 +8,7 @@
 - Lead SRE at **IBM MaaS360 (IBM Security)**: SRE-led reliability across 200+ microservices
 - Running the AI@MaaS360 platform for the IBM Magma GenAI Framework and ContextForge (MCP & A2A) on Red Hat OpenShift
 - Building RAG knowledge bases on AWS Bedrock
-- M.Tech thesis: **TradeVision**, a dual-phase AI framework for NIFTY-50 stock forecasting (XGBoost, SVR, LSTM, BiLSTM, GRU, ARIMA+GARCH)
+- Applying production-engineering rigor to ML: my M.Tech (AI & Data Science, IIIT Kottayam) work, **TradeVision**, combines directional classification and multi-horizon time-series regression for NIFTY-50 forecasting, benchmarking classical, statistical and deep-learning models (XGBoost, SVR, ARIMA+GARCH, LSTM, BiLSTM, GRU)
 
 ## 🛠️ Tech stack
 | Area | Tools |
