@@ -1,36 +1,39 @@
-# Hi, I'm Sangram Keshari Dash 👋
+# Sangram Keshari Dash
 
 **AI Platform | Site Reliability Engineer** · Bangalore, India
 
-18+ years designing, scaling and operating large-scale SaaS and cloud infrastructure across multi-region and multi-cloud environments. Currently moving into **AI/ML Platform Engineering** (M.Tech in AI & Data Science, IIIT Kottayam).
+Lead SRE for IBM MaaS360 (IBM Security), running the GenAI platform behind it: Magma GenAI Framework and ContextForge (MCP & A2A) on Red Hat OpenShift.
 
-## 🔭 What I'm doing now
-- Lead SRE at **IBM MaaS360 (IBM Security)**: SRE-led reliability across 200+ microservices
-- Running the AI@MaaS360 platform for the IBM Magma GenAI Framework and ContextForge (MCP & A2A) on Red Hat OpenShift
-- Building RAG knowledge bases on AWS Bedrock
-- Applying production-engineering rigor to ML: my M.Tech (AI & Data Science, IIIT Kottayam) work, **TradeVision**, combines directional classification and multi-horizon time-series regression for NIFTY-50 forecasting, benchmarking classical, statistical and deep-learning models (XGBoost, SVR, ARIMA+GARCH, LSTM, BiLSTM, GRU)
+## About
 
-## 🛠️ Tech stack
-| Area | Tools |
-|---|---|
-| Cloud & Platform | AWS, OpenShift (ROSA), Kubernetes, Docker, Terraform, Ansible, Linux |
-| DevOps & CI/CD | Git, Jenkins, Artifactory, Helm, ArgoCD |
-| Observability | ELK, Grafana, Kibana, AppDynamics, New Relic, Instana, ThousandEyes |
-| Middleware & JVM | WebLogic, Tomcat, JVM tuning, JFR |
-| Traffic / CDN | F5 BIG-IP, Akamai, octoDNS |
-| Languages | Python, Java, Shell, SQL, JavaScript |
-| AI / ML & GenAI | scikit-learn, TensorFlow, PyTorch, NLP, LLMs, RAG, AWS Bedrock, Hugging Face |
+Seasoned Reliability and Distributed Systems Engineer with 18+ years of experience designing, scaling, and operating large-scale SaaS and cloud infrastructure platforms across multi-region and multi-cloud environments.
 
-## 💼 Experience
-- **IBM**: Lead SRE (2022–present); SME, HA/DR (2016–2017)
-- **Oracle**: Principal Reliability Engineer (2017–2022); IT Senior Consultant (2012–2016)
-- Earlier: HCL Comnet, Patni Computers, Citigroup
+- Strong expertise in Kubernetes, OpenShift, AWS, CI/CD, observability, performance engineering, capacity planning, and reliability optimization for distributed systems and microservices architectures.
+- Specialized in AI/ML Platform Engineering, building production-grade Multi-Agent Systems, Model Context Protocol (MCP) integrations, and enterprise-scale RAG pipelines for modern Generative AI workloads.
 
-## 🏆 Highlights
-- IBM ISL Entrepreneur Award (2025)
-- Oracle PDIT Excellence Award
-- Cut deployment cycle time by 44% (4h → 2h15m) across 200+ SaaS apps
+Currently leading SRE for IBM MaaS360, governing error budgets across 200+ microservices, and completing an M.Tech in AI & Data Science at IIIT Kottayam.
 
-## 📫 Connect
-- 🌐 CV / site: https://sangramkesharidash.github.io
-- ✉️ sangram.dash.iiit@gmail.com
+## Projects
+
+**AI@MaaS360 platform** — Infrastructure for the IBM Magma GenAI Framework and ContextForge MCP & Agent-to-Agent (A2A) communications. Deployed on Red Hat OpenShift as an AI service, with global traffic routing through Akamai, AWS NLB and octoDNS.
+
+**Enterprise RAG knowledge base** — Built on AWS Bedrock with Titan Text Embeddings and S3 data sources. Uses 800-token chunks with 20% overlap to ingest unstructured data for context-aware GenAI retrieval.
+
+**Quarterly release orchestration** — Release pipeline for 200+ SaaS applications on OpenShift and ArgoCD. Cut end-to-end deployment time by 44% (4 hrs to 2 hrs 15 mins). Recognised with the IBM ISL Entrepreneur Award (2025).
+
+**TradeVision** — M.Tech thesis at IIIT Kottayam. A dual-phase AI framework that combines directional classification with time-series regression for multi-horizon NIFTY-50 forecasting. Models: XGBoost, SVR, LSTM, BiLSTM, GRU, ARIMA+GARCH.
+
+## Expertise
+
+- **Site Reliability Engineering** — SLO and error budgets, incident response, MTTR/MTTD reduction, capacity planning, performance engineering
+- **AI Platform Engineering** — GenAI platforms, MCP & A2A, RAG pipelines, AWS Bedrock, LLMs
+- **Platform Engineering** — Kubernetes, OpenShift (ROSA), Terraform, Ansible, Helm, ArgoCD, Jenkins, CI/CD
+- **Cloud Infrastructure** — AWS (EC2, NLB, S3, EFS, ElastiCache, IoT Core, OpenSearch), IBM Cloud, hybrid VM and container estates
+- **Observability** — ELK (50TB+ logs per month), Grafana, AppDynamics, New Relic, Instana, ThousandEyes, PagerDuty
+- **ML & Data** — Python, scikit-learn, TensorFlow, PyTorch, NLP, Hugging Face
+- **JVM & Middleware** — Tomcat, WebLogic, JFR, GC and thread analysis
+
+## Connect
+
+- Website & CV — [sangramkesharidash.github.io](https://sangramkesharidash.github.io)
+- Email — [sangram.dash.iiit@gmail.com](mailto:sangram.dash.iiit@gmail.com)
